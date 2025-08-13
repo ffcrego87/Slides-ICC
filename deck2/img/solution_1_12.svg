@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="396" height="155" viewBox="0 0 396 155" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="75.5" cy="99.5" rx="30" ry="30"/>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="313.5" cy="97.5" rx="30" ry="30"/>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="313.5" cy="97.5" rx="21.515" ry="21.515"/>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 103.669,89.212 A 313.284,313.284 0 0 1 285.162,87.687"/>
+	<polygon fill="#000000" stroke-width="2" points="285.162,87.687 276.298,77.716 272.315,91.286"/>
+	<text x="189.5" y="65.5" font-family="Times New Roman" font-size="20">a</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 287.201,111.888 A 224.38,224.38 0 0 1 102.037,113.444"/>
+	<polygon fill="#000000" stroke-width="2" points="102.037,113.444 109.519,124.49 115.245,111.56"/>
+	<text x="190.5" y="153.5" font-family="Times New Roman" font-size="20">a</text>
+	<path stroke="blue" stroke-width="2" fill="none" d="M 320.233,68.385 A 22.5,22.5 0 1 1 340.705,85.135"/>
+	<text x="361.5" y="36.5" font-family="Times New Roman" font-size="20">b,c</text>
+	<polygon fill="#000000" stroke-width="2" points="340.705,85.135 353.443,89.101 349.852,75.423"/>
+	<path stroke="blue" stroke-width="2" fill="none" d="M 65.102,71.484 A 22.5,22.5 0 1 1 91.412,74.206"/>
+	<text x="73.5" y="21.5" font-family="Times New Roman" font-size="20">b,c</text>
+	<polygon fill="#000000" stroke-width="2" points="91.412,74.206 104.232,70.509 93.706,61.063"/>
+	<polygon stroke="blue" stroke-width="2" points="2.5,99.5 45.5,99.5"/>
+	<polygon fill="#000000" stroke-width="2" points="45.5,99.5 34.186,92.429 34.186,106.571"/>
+</svg>

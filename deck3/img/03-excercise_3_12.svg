@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="797" height="597" viewBox="0 0 797 597" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="163.5" cy="273.5" rx="30" ry="30"/>
+	<text x="156.5" y="279.5" font-family="Times New Roman" font-size="20">X</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="396.5" cy="273.5" rx="30" ry="30"/>
+	<text x="389.5" y="279.5" font-family="Times New Roman" font-size="20">Y</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="396.5" cy="273.5" rx="21.515" ry="21.515"/>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="630.5" cy="273.5" rx="30" ry="30"/>
+	<text x="624.5" y="279.5" font-family="Times New Roman" font-size="20">Z</text>
+	<polygon stroke="#004CB2" stroke-width="2" points="75.5,273.5 133.5,273.5"/>
+	<polygon fill="#000000" stroke-width="2" points="133.5,273.5 122.186,266.429 122.186,280.571"/>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 192.435,265.606 A 387.936,387.936 0 0 1 367.565,265.606"/>
+	<polygon fill="#000000" stroke-width="2" points="367.565,265.606 358.139,256.163 354.947,269.94"/>
+	<text x="267.5" y="246.5" font-family="Times New Roman" font-size="20">0,1</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 367.913,282.566 A 338.434,338.434 0 0 1 192.087,282.566"/>
+	<polygon fill="#000000" stroke-width="2" points="192.087,282.566 201.176,292.333 204.849,278.676"/>
+	<text x="275.5" y="315.5" font-family="Times New Roman" font-size="20">0</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 424.833,263.673 A 314.169,314.169 0 0 1 602.167,263.673"/>
+	<polygon fill="#000000" stroke-width="2" points="602.167,263.673 593.309,253.696 589.318,267.264"/>
+	<text x="501.5" y="241.5" font-family="Times New Roman" font-size="20">0,&#949;</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 601.85,282.367 A 347.581,347.581 0 0 1 425.15,282.367"/>
+	<polygon fill="#000000" stroke-width="2" points="425.15,282.367 434.295,292.082 437.889,278.404"/>
+	<text x="508.5" y="314.5" font-family="Times New Roman" font-size="20">1</text>
+	<path stroke="blue" stroke-width="2" fill="none" d="M 414.724,297.183 A 22.5,22.5 0 1 1 388.787,302.37"/>
+	<text x="410.5" y="361.5" font-family="Times New Roman" font-size="20">1</text>
+	<polygon fill="#000000" stroke-width="2" points="388.787,302.37 377.637,309.696 390.486,315.603"/>
+</svg>

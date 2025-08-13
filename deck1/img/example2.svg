@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="448" height="145" viewBox="0 0 448 145" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="78.5" cy="92.5" rx="30" ry="30"/>
+	<text x="71.5" y="98.5" font-family="Times New Roman" font-size="20">A</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="370.5" cy="86.5" rx="30" ry="30"/>
+	<text x="363.5" y="92.5" font-family="Times New Roman" font-size="20">B</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="370.5" cy="86.5" rx="21.515" ry="21.515"/>
+	<polygon stroke="#004CB2" stroke-width="2" points="2.5,92.5 48.5,92.5"/>
+	<polygon fill="#000000" stroke-width="2" points="48.5,92.5 37.186,85.429 37.186,99.571"/>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 55.687,73.198 A 22.5,22.5 0 1 1 79.944,62.652"/>
+	<text x="36.5" y="21.5" font-family="Times New Roman" font-size="20">0</text>
+	<polygon fill="#000000" stroke-width="2" points="79.944,62.652 89.296,53.137 75.489,50.076"/>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 106.204,81.011 A 363.098,363.098 0 0 1 342.348,76.159"/>
+	<polygon fill="#000000" stroke-width="2" points="342.348,76.159 333.738,65.967 329.414,79.432"/>
+	<text x="218.5" y="49.5" font-family="Times New Roman" font-size="20">1</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 342.629,97.58 A 377.125,377.125 0 0 1 106.802,102.425"/>
+	<polygon fill="#000000" stroke-width="2" points="106.802,102.425 115.546,112.503 119.692,98.982"/>
+	<text x="220.5" y="140.5" font-family="Times New Roman" font-size="20">1</text>
+	<path stroke="blue" stroke-width="2" fill="none" d="M 400.183,89.954 A 22.5,22.5 0 1 1 385.813,112.161"/>
+	<text x="433.5" y="142.5" font-family="Times New Roman" font-size="20">0</text>
+	<polygon fill="#000000" stroke-width="2" points="385.813,112.161 383.288,125.262 396.483,120.172"/>
+</svg>

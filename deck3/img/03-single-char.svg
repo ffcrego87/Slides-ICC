@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="401" height="66" viewBox="0 0 401 66" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="99.5" cy="33.5" rx="30" ry="30"/>
+	<text x="90.5" y="39.5" font-family="Times New Roman" font-size="20">q&#8320;</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="368.5" cy="33.5" rx="30" ry="30"/>
+	<text x="359.5" y="39.5" font-family="Times New Roman" font-size="20">q&#8321;</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="368.5" cy="33.5" rx="21.515" ry="21.515"/>
+	<polygon stroke="#004CB2" stroke-width="2" points="2.5,33.5 69.5,33.5"/>
+	<polygon fill="#000000" stroke-width="2" points="69.5,33.5 58.186,26.429 58.186,40.571"/>
+	<polygon stroke="#004CB2" stroke-width="2" points="129.5,33.5 338.5,33.5"/>
+	<polygon fill="#000000" stroke-width="2" points="338.5,33.5 327.186,26.429 327.186,40.571"/>
+	<text x="229.5" y="24.5" font-family="Times New Roman" font-size="20">c</text>
+</svg>

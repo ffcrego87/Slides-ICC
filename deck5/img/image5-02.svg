@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="600" height="132" viewBox="0 0 600 132" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="33.5" cy="67.5" rx="30" ry="30"/>
+	<text x="18.5" y="73.5" font-family="Times New Roman" font-size="20">idle</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="361.5" cy="70.5" rx="30" ry="30"/>
+	<text x="344.5" y="76.5" font-family="Times New Roman" font-size="20">wait</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 61.101,55.764 A 376.232,376.232 0 0 1 334.119,58.261"/>
+	<polygon fill="#000000" stroke-width="2" points="334.119,58.261 326.24,47.494 320.988,60.625"/>
+	<text x="151.5" y="21.5" font-family="Times New Roman" font-size="20">send packet</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 334.058,82.602 A 365.342,365.342 0 0 1 60.716,80.102"/>
+	<polygon fill="#000000" stroke-width="2" points="60.716,80.102 68.463,90.963 73.874,77.897"/>
+	<text x="151.5" y="129.5" font-family="Times New Roman" font-size="20">receive ack</text>
+	<path stroke="blue" stroke-width="2" fill="none" d="M 391.306,68.363 A 22.5,22.5 0 1 1 381.327,92.858"/>
+	<text x="431.5" y="110.5" font-family="Times New Roman" font-size="20">if NAK resend</text>
+	<polygon fill="#000000" stroke-width="2" points="381.327,92.858 381.287,106.2 393.302,98.74"/>
+</svg>

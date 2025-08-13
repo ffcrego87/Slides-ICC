@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="690.18359"
+   height="355.2168"
+   viewBox="0 0 690.18359 355.2168"
+   preserveAspectRatio="none"
+   version="1.1"
+   id="svg579"
+   sodipodi:docname="03-solution3_3b.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs583" />
+  <sodipodi:namedview
+     id="namedview581"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.39597315"
+     inkscape:cx="386.38983"
+     inkscape:cy="136.37288"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg579" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="71"
+     cy="179.88672"
+     id="ellipse485"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="200"
+     cy="89.886719"
+     id="ellipse487"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="338"
+     cy="262.88672"
+     id="ellipse489"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="200"
+     cy="262.88672"
+     id="ellipse491"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="467"
+     cy="261.88672"
+     id="ellipse493"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="600"
+     cy="171.88672"
+     id="ellipse495"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="600"
+     cy="171.88672"
+     id="ellipse497"
+     r="21.514999" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="338"
+     cy="89.886719"
+     id="ellipse499"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="467"
+     cy="89.886719"
+     id="ellipse501"
+     r="30" />
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="108.729,357.733 187.271,408.267 "
+     id="polygon503"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="173.93,408.092 187.271,408.267 181.583,396.199 "
+     id="polygon505"
+     transform="translate(-12.5,-161.61328)" />
+  <text
+     x="122"
+     y="241.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text507">a</text>
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="242.5,424.5 320.5,424.5 "
+     id="polygon509"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="309.186,431.571 320.5,424.5 309.186,417.429 "
+     id="polygon511"
+     transform="translate(-12.5,-161.61328)" />
+  <text
+     x="265"
+     y="283.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text513">a</text>
+  <path
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     d="m 351.225,289.68372 a 22.5,22.5 0 1 1 -26.45,0"
+     id="path515" />
+  <text
+     x="326"
+     y="351.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text517">a,b</text>
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="336.345,464.606 337.275,451.297 324.904,456.294 "
+     id="polygon519"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="380.499,424.267 449.501,423.733 "
+     id="polygon521"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="438.242,430.891 449.501,423.733 438.133,416.749 "
+     id="polygon523"
+     transform="translate(-12.5,-161.61328)" />
+  <text
+     x="398"
+     y="283.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text525">b</text>
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="504.346,406.687 587.654,350.313 "
+     id="polygon527"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="582.247,362.51 587.654,350.313 574.321,350.797 "
+     id="polygon529"
+     transform="translate(-12.5,-161.61328)" />
+  <text
+     x="539"
+     y="237.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text531">b</text>
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="108.104,324.335 187.896,268.665 "
+     id="polygon533"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="182.663,280.938 187.896,268.665 174.572,269.34 "
+     id="polygon535"
+     transform="translate(-12.5,-161.61328)" />
+  <text
+     x="120"
+     y="125.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text537">b</text>
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="242.5,251.5 320.5,251.5 "
+     id="polygon539"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="309.186,258.571 320.5,251.5 309.186,244.429 "
+     id="polygon541"
+     transform="translate(-12.5,-161.61328)" />
+  <text
+     x="264"
+     y="80.886719"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text543">b</text>
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="380.5,251.5 449.5,251.5 "
+     id="polygon545"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="438.186,258.571 449.5,251.5 438.186,244.429 "
+     id="polygon547"
+     transform="translate(-12.5,-161.61328)" />
+  <text
+     x="398"
+     y="80.886719"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text549">a</text>
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="505.037,267.244 586.963,317.756 "
+     id="polygon551"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="573.622,317.837 586.963,317.756 581.044,305.799 "
+     id="polygon553"
+     transform="translate(-12.5,-161.61328)" />
+  <text
+     x="538"
+     y="121.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text555">a</text>
+  <path
+     stroke="#0000ff"
+     stroke-width="2"
+     fill="none"
+     d="m 324.775,63.089719 a 22.5,22.5 0 1 1 26.45,0"
+     id="path557" />
+  <text
+     x="326"
+     y="13.886719"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text559">a,b</text>
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="364.655,211.394 363.725,224.703 376.096,219.706 "
+     id="polygon561"
+     transform="translate(-12.5,-161.61328)" />
+  <path
+     stroke="#0000ff"
+     stroke-width="2"
+     fill="none"
+     d="m 57.775,153.08972 a 22.5,22.5 0 1 1 26.45,0"
+     id="path563" />
+  <text
+     x="59"
+     y="103.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text565">a,b</text>
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="97.655,301.394 96.725,314.703 109.096,309.706 "
+     id="polygon567"
+     transform="translate(-12.5,-161.61328)" />
+  <path
+     stroke="#0000ff"
+     stroke-width="2"
+     fill="none"
+     d="m 629.876,172.51572 a 22.5,22.5 0 1 1 -12.203,23.468"
+     id="path569" />
+  <text
+     x="667"
+     y="220.88672"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text571">a,b</text>
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="641.553,364.561 630.173,357.597 628.899,370.877 "
+     id="polygon573"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     stroke="#0000ff"
+     stroke-width="2"
+     points="12.5,341.5 53.5,341.5 "
+     id="polygon575"
+     transform="translate(-12.5,-161.61328)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="42.186,348.571 53.5,341.5 42.186,334.429 "
+     id="polygon577"
+     transform="translate(-12.5,-161.61328)" />
+</svg>

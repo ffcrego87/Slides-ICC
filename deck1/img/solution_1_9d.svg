@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="479" height="135" viewBox="0 0 479 135" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="33.5" cy="72.5" rx="30" ry="30"/>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="33.5" cy="72.5" rx="21.515" ry="21.515"/>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="215.5" cy="72.5" rx="30" ry="30"/>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="215.5" cy="72.5" rx="21.515" ry="21.515"/>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="388.5" cy="72.5" rx="30" ry="30"/>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 59.727,58.024 A 161.875,161.875 0 0 1 189.273,58.024"/>
+	<polygon fill="#000000" stroke-width="2" points="59.727,58.024 72.925,59.977 67.266,47.017"/>
+	<text x="119.5" y="35.5" font-family="Times New Roman" font-size="20">1</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 191.185,89.968 A 135.959,135.959 0 0 1 57.815,89.968"/>
+	<polygon fill="#000000" stroke-width="2" points="191.185,89.968 177.857,89.355 184.794,101.679"/>
+	<text x="112.5" y="128.5" font-family="Times New Roman" font-size="20">0,1</text>
+	<polygon stroke="#004CB2" stroke-width="2" points="245.5,72.5 358.5,72.5"/>
+	<polygon fill="#000000" stroke-width="2" points="358.5,72.5 347.186,65.429 347.186,79.571"/>
+	<text x="297.5" y="93.5" font-family="Times New Roman" font-size="20">0</text>
+	<path stroke="blue" stroke-width="2" fill="none" d="M 400.239,45.019 A 22.5,22.5 0 1 1 417.453,65.102"/>
+	<text x="445.5" y="20.5" font-family="Times New Roman" font-size="20">0,1</text>
+	<polygon fill="#000000" stroke-width="2" points="417.453,65.102 429.297,71.243 428.163,57.146"/>
+	<polygon stroke="blue" stroke-width="2" points="215.5,7.5 215.5,42.5"/>
+	<polygon fill="#000000" stroke-width="2" points="215.5,42.5 222.571,31.186 208.429,31.186"/>
+</svg>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="279.30664"
+   height="265"
+   viewBox="0 0 279.30664 265"
+   preserveAspectRatio="none"
+   version="1.1"
+   id="svg340"
+   sodipodi:docname="03-solution3_3a.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs344" />
+  <sodipodi:namedview
+     id="namedview342"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.39663866"
+     inkscape:cx="300.02119"
+     inkscape:cy="186.5678"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg340" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="71"
+     cy="142"
+     id="ellipse302"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="238"
+     cy="31"
+     id="ellipse304"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="238"
+     cy="31"
+     id="ellipse306"
+     r="21.514999" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="236"
+     cy="234"
+     id="ellipse308"
+     r="30" />
+  <circle
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     cx="236"
+     cy="234"
+     id="ellipse310"
+     r="21.514999" />
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="99.5,252.5 140.5,252.5 "
+     id="polygon312"
+     transform="translate(-99.5,-110.5)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="129.186,259.571 140.5,252.5 129.186,245.429 "
+     id="polygon314"
+     transform="translate(-99.5,-110.5)" />
+  <path
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     d="m 222.058,207.473 a 186.934,186.934 0 0 1 1.48,-150.226"
+     id="path316" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="310.611,310.346 321.558,317.973 323.616,304.791 "
+     id="polygon318"
+     transform="translate(-99.5,-110.5)" />
+  <text
+     x="193"
+     y="138"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text320">a</text>
+  <path
+     stroke="#004cb2"
+     stroke-width="2"
+     fill="none"
+     d="m 251.117,57.949 a 197.882,197.882 0 0 1 -1.472,149.366"
+     id="path322" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="361.357,176.363 350.617,168.449 348.209,181.571 "
+     id="polygon324"
+     transform="translate(-99.5,-110.5)" />
+  <text
+     x="270"
+     y="139"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text326">b</text>
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="195.485,235.894 312.515,158.106 "
+     id="polygon328"
+     transform="translate(-99.5,-110.5)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="307.007,170.258 312.515,158.106 299.179,158.48 "
+     id="polygon330"
+     transform="translate(-99.5,-110.5)" />
+  <text
+     x="141"
+     y="78"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text332">ε</text>
+  <polygon
+     stroke="#004cb2"
+     stroke-width="2"
+     points="196.702,267.11 309.298,329.89 "
+     id="polygon334"
+     transform="translate(-99.5,-110.5)" />
+  <polygon
+     fill="#000000"
+     stroke-width="2"
+     points="295.973,330.557 309.298,329.89 302.86,318.205 "
+     id="polygon336"
+     transform="translate(-99.5,-110.5)" />
+  <text
+     x="140"
+     y="209"
+     font-family="'Times New Roman'"
+     font-size="20px"
+     id="text338">ε</text>
+</svg>

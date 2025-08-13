@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="412" height="148" viewBox="0 0 412 148" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="79.5" cy="61.5" rx="30" ry="30"/>
+	<text x="72.5" y="67.5" font-family="Times New Roman" font-size="20">A</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="326.5" cy="61.5" rx="30" ry="30"/>
+	<text x="319.5" y="67.5" font-family="Times New Roman" font-size="20">B</text>
+	<ellipse stroke="#004CB2" stroke-width="2" fill="none" cx="326.5" cy="61.5" rx="21.515" ry="21.515"/>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 353.297,48.275 A 22.5,22.5 0 1 1 353.297,74.725"/>
+	<text x="399.5" y="67.5" font-family="Times New Roman" font-size="20">1</text>
+	<polygon fill="#000000" stroke-width="2" points="353.297,74.725 358.294,87.096 366.606,75.655"/>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 301.763,78.421 A 197.408,197.408 0 0 1 104.237,78.421"/>
+	<polygon fill="#000000" stroke-width="2" points="104.237,78.421 110.496,90.204 117.571,77.959"/>
+	<text x="197.5" y="125.5" font-family="Times New Roman" font-size="20">0</text>
+	<path stroke="#004CB2" stroke-width="2" fill="none" d="M 106.475,48.413 A 252.482,252.482 0 0 1 299.525,48.413"/>
+	<polygon fill="#000000" stroke-width="2" points="299.525,48.413 291.774,37.554 286.367,50.622"/>
+	<text x="198.5" y="20.5" font-family="Times New Roman" font-size="20">1</text>
+	<path stroke="blue" stroke-width="2" fill="none" d="M 83.573,91.104 A 22.5,22.5 0 1 1 58.48,82.74"/>
+	<text x="44.5" y="146.5" font-family="Times New Roman" font-size="20">0</text>
+	<polygon fill="#000000" stroke-width="2" points="58.48,82.74 45.164,83.568 53.389,95.072"/>
+	<polygon stroke="blue" stroke-width="2" points="2.5,61.5 49.5,61.5"/>
+	<polygon fill="#000000" stroke-width="2" points="49.5,61.5 38.186,54.429 38.186,68.571"/>
+</svg>
