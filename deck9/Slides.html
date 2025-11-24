@@ -433,17 +433,17 @@ ul.byline li + li {
 <div class="paragraph"><p>For example: entry <strong>s4</strong> means shift and change to state 4.</p></div></div></section><section id="_details_of_reducing"><h2>Details of Reducing</h2><div class="slide-content"><div class="olist arabic"><ol class="arabic"><li><p>Pop symbols and intervening states and discard.</p></li><li><p>Update state: say one has reduced to variable \$X\$. Look at (but do not pop) the stack-top state, say \$q\$. Then look up in the table the new state based on \$q\$ and \$X\$.</p></li><li><p>Push \$X\$.</p></li></ol></div></div></section><section id="_example_reduction"><h2>Example Reduction</h2><div class="slide-content"><div class="paragraph"><p>For example: entry <strong>R1</strong> means use production 1. Say this is \$C \rightarrow \times B\$ and the stack is:</p></div>
 <table class="tableblock frame-all grid-all" style="width:5%"><colgroup><col style="width:100%"></colgroup><tbody><tr><td class="tableblock halign-left valign-top"><p class="tableblock">B</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock">7</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock">\$\times\$</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock">4</p></td></tr><tr><td class="tableblock halign-left valign-top"><p class="tableblock">\$\vdots\$</p></td></tr></table>
 <div class="paragraph"><p>Then the reduction pops the \$B\$, 7, and \$\times\$, and discards them. It notes the stack-top is 4, pushes \$C\$, and updates the state to that given in row 4, column \$C\$.</p></div></div></section><section id="_example_grammar"><h2>Example Grammar</h2><div class="slide-content"><div class="paragraph"><p><strong>Productions:</strong>
-. \$S \rightarrow rL\$
-. \$L \rightarrow L, I\$
-. \$L \rightarrow I\$
-. \$I \rightarrow v\$</p></div>
+\$S \rightarrow rL\$+
+\$L \rightarrow L, I\$+
+\$L \rightarrow I\$+
+\$I \rightarrow v\$</p></div>
 <div class="imageblock center"><img src="img/ex-table.png" alt="ex table"></div></div></section><section id="_example_parsing_rvv"><h2>Example Parsing: \$rv,v\$</h2><div class="slide-content"><div class="imageblock center"><img src="img/ex-table2.png" alt="ex table2"></div></div></section><section id="_example_arithmetic_again_productions"><h2>Example: Arithmetic Again (Productions)</h2><div class="slide-content"><div class="paragraph"><p><strong>Productions:</strong>
-. \$E \rightarrow E + T\$
-. \$E \rightarrow T\$
-. \$T \rightarrow T \times F\$
-. \$T \rightarrow F\$
-. \$F \rightarrow (E)\$
-. \$F \rightarrow n\$</p></div>
+\$E \rightarrow E + T\$+
+\$E \rightarrow T\$+
+\$T \rightarrow T \times F\$+
+\$T \rightarrow F\$+
+\$F \rightarrow (E)\$+
+\$F \rightarrow n\$+</p></div>
 <div class="paragraph"><p>The table becomes …</p></div></div></section><section id="_example_arithmetic_again_table"><h2>Example: Arithmetic Again (Table)</h2><div class="slide-content"><div class="imageblock center"><img src="img/ex-table3.png" alt="ex table3" height="400"></div>
 <div class="paragraph"><p>For example, if in state 7 and \$n\$ is read, then it is shifted (so that \$n\$ is pushed onto the stack) and the progress becomes just the \$n\$.</p></div></div></section></section>
 <section><section id="_construction_of_an_slr1_table"><h2>Construction of an SLR(1) Table</h2><div class="slide-content"><div class="paragraph"><p>Let’s build a table. Technically, this assumes that the grammar is an SLR(1) grammar, where S stands for <strong>simple</strong>.</p></div><div class="paragraph"><p>The process has 2 main phases.</p></div><div class="olist arabic"><ol class="arabic"><li><p>determining the states and the shifts, and</p></li><li><p>determining the reductions</p></li></ol></div><div class="paragraph"><p>Assume we have the context-free grammar (CFG):</p></div><div class="paragraph"><p>\$S \rightarrow AA\$</p></div><div class="paragraph"><p>\$A \rightarrow aA \mid b\$</p></div></div></section><section id="_step_1_find_the_augmented_grammar"><h2>Step 1: Find the augmented grammar</h2><div class="slide-content"><div class="paragraph"><p>The augmented grammar of the given grammar is:</p></div>
